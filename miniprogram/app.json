@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/business/list/list"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#37383B",
+    "navigationBarTitleText": "北软-招投标",
+    "navigationBarTextStyle": "white"
+  }
+}
